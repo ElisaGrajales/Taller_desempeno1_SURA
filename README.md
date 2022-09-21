@@ -1,7 +1,7 @@
 # Taller desempeño 1
-##Formación SURA
+## Formación SURA
 
-####Descripción del taller:
+#### Descripción del taller:
 
 Resolver los siguientes ejercicios de programación:
 
